@@ -1,9 +1,9 @@
-## Olá, Eu sou Elísia 👋
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=300&section=header&text=Olá,%20sou%20Elísia%20Santos&fontSize=70" />
 
 <div>
   <a href="https://github.com/elisiasantos">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=elisiasantos&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-    <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elisiasantos&layout=compact&langs_count=16&theme=dark"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=elisiasantos&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
+    <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elisiasantos&layout=compact&langs_count=16&theme=midnight-purple"/>
   </a>
 </div>
 
