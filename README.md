@@ -1,17 +1,20 @@
-<img src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=300&section=header&text=Olá,%20sou%20Elísia%20Santos&fontSize=70" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=260&section=header&text=Hello,%20I'm%20Elísia%20Santos%20💻&fontSize=70&fontColor=ffffff&fontAlignY=50" />
 
-<div>
-  <a href="https://github.com/elisiasantos">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=elisiasantos&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-    <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elisiasantos&layout=compact&langs_count=16&theme=midnight-purple"/>
-  </a>
-</div>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=elisiasantos&show_icons=true&count_private=true&theme=dark)
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Lisa-CSS" height="30" width="40"
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
- <img align="center" alt="Rafa-HTML" height="30" width="40"
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-</div>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=elisiasantos&layout=compact&theme=dark)
 
 ##
+
+<table>
+  <tr>
+    <td align="center">
+      <img alt="python" height=64px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+      <br>Python
+    </td>
+    <td align="center">
+    </td>
+    <td align="center">
+      <img alt="html5" height=64px src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg">
+      <br>HTML5
+    </td>
